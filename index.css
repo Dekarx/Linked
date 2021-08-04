@@ -1,0 +1,53 @@
+.iconlar {
+    width: 25px;
+    height: 25px;   
+}
+
+.ortala{
+    text-align: center;
+}
+
+.navborder {
+    border-right: dashed 2px rgb(139, 137, 134);
+}
+
+.aşağı {
+    padding-top: 70px;
+}
+
+.küçült {
+    height: 40px;
+    width: 60px;
+    font-size: 12px;
+    position: absolute;
+    left: -15px;
+    border-radius: 30%;
+}
+
+body {
+    background-color: #f3f2ef;
+}
+
+#yuvarla {
+    border-radius: 100px;
+}
+
+.arkaplan {
+    background-color: rgba(196, 153, 153, 0.158);
+}
+
+.arkaplan2 {
+    background-color: rgba(235, 247, 232, 0.479);
+}
+
+.arkaplan:hover{
+    background-color: gray;
+}
+
+.arkaplan2:hover{
+    background-color: gray;
+}
+
+.küçükicon {
+    width: 20px;
+}
